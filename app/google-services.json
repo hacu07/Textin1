@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828393344011",
+    "firebase_url": "https://textin1-d7d40.firebaseio.com",
+    "project_id": "textin1-d7d40",
+    "storage_bucket": "textin1-d7d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828393344011:android:8e6eef3e09f32f07",
+        "android_client_info": {
+          "package_name": "com.hacu.textin1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828393344011-n9p7d9t0bjhc83rg43p3k5l2mghhjicv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hacu.textin1",
+            "certificate_hash": "7a38c7e7b2ee9e05fb2c6bb82f51c4bf5e0a6108"
+          }
+        },
+        {
+          "client_id": "828393344011-1ap360kd7oaohbfk1bcqpgvas790v8u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe9fIkSYOquOJIFnU4fr4TTKPYLo1JQys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828393344011-1ap360kd7oaohbfk1bcqpgvas790v8u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
